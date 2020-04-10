@@ -5,7 +5,7 @@ module Fastlane
   module Actions
     class SerdarAction < Action
       def self.run(params)
-        UI.message("I'm watching you! 👀")
+        UI.message("I am watching you! 👀")
       end
 
       def self.description

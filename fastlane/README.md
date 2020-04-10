@@ -16,9 +16,9 @@ or alternatively using `brew cask install fastlane`
 
 # Available Actions
 ## iOS
-### ios custom_lane
+### ios call_the_magic
 ```
-fastlane ios custom_lane
+fastlane ios call_the_magic
 ```
 Description of what the lane does
 
