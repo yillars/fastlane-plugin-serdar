@@ -5,7 +5,7 @@ module Fastlane
   module Actions
     class SerdarAction < Action
       def self.run(params)
-        UI.message("My own plugin is working perfectly, isn't it?")
+        UI.message("I'm watching you!")
       end
 
       def self.description
